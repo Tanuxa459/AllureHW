@@ -10,8 +10,6 @@ import org.junit.jupiter.api.BeforeEach;
 
 public class TestBase {
 
-    public static final String REPOSITORY = "Tanuxa459/AllureHW";
-    public static final String TITLE = "Welcome to issues!";
 
     @BeforeAll
     static void beforeAll() {
